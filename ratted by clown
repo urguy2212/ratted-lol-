@@ -1,0 +1,4 @@
+while true do
+	task.wait(0.1)
+	print(identifyexecutor())
+end
